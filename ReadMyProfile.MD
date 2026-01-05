@@ -1,4 +1,4 @@
-Hi, Welcome to My Portfolio! 👋🏽
+# Hi, Welcome to My Portfolio! 👋🏽
 
 I’m a Data Analyst, Business Analyst, Business Intelligence professional, and Virtual Assistant who transforms raw data into actionable insights. I help businesses uncover trends, track performance, and make confident, data-driven decisions. From cleaning and validating datasets to designing interactive dashboards in Power BI, Excel, and SQL, I focus on turning numbers into stories that drive smarter business outcomes. My Virtual Assistant experience allows me to support operations efficiently while managing data projects end-to-end.
 
@@ -48,7 +48,7 @@ I’m a Data Analyst, Business Analyst, Business Intelligence professional, and 
 # 📊Data Analytics Projects
 
 ## ✅Swiftmart Ecommerce Analysis (Power BI)
-**Case Study:** The goal of this project is to deliver insights that could help SwiftMart grow revenue, improve customer retention, and optimize website performance.
+**Case Study: The goal of this project is to deliver insights that could help SwiftMart grow revenue, improve customer retention, and optimize website performance.**
 
 [View Project](https://github.com/R887645/SwiftMart-E-Commerce-Analytics-)
 
