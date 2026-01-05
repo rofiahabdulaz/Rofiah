@@ -1,5 +1,4 @@
 # Hi, Welcome to My Portfolio!👋🏽
-[My LinkedIn Profile](https://www.linkedin.com/in/rofiah-abdul-azeez/)
 
 
 
@@ -84,3 +83,5 @@ This project was designed to provide a comprehensive, end-to-end analysis of mar
 I’m open to remote Data Analyst, Business Analyst, or Business Intelligence roles, freelance projects, or long-term collaborations. If you need someone who can turn data into insights, streamline processes, and help your business make informed decisions, I’m here to help.
 
 📩 Looking forward to contributing to your next data-driven move! Kehindeazeez49@gmail.com
+[My LinkedIn Profile](https://www.linkedin.com/in/rofiah-abdul-azeez/)
+
