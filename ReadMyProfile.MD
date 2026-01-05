@@ -1,4 +1,7 @@
-***Hi, Welcome to My Portfolio!*** 👋🏽
+# Hi, Welcome to My Portfolio!👋🏽
+[My LinkedIn Profile](https://www.linkedin.com/in/rofiah-abdul-azeez/)
+
+
 
 I’m a Data Analyst, Business Analyst, Business Intelligence professional, and Virtual Assistant who transforms raw data into actionable insights. I help businesses uncover trends, track performance, and make confident, data-driven decisions. From cleaning and validating datasets to designing interactive dashboards in Power BI, Excel, and SQL, I focus on turning numbers into stories that drive smarter business outcomes. My Virtual Assistant experience allows me to support operations efficiently while managing data projects end-to-end.
 
@@ -48,14 +51,14 @@ I’m a Data Analyst, Business Analyst, Business Intelligence professional, and 
 # 📊Data Analytics Projects
 
 ## ✅Swiftmart Ecommerce Analysis (Power BI)
-**Case Study: The goal of this project is to deliver insights that could help SwiftMart grow revenue, improve customer retention, and optimize website performance.**
+**Case Study:** The goal of this project is to deliver insights that could help SwiftMart grow revenue, improve customer retention, and optimize website performance.
 
-[View Project](https://github.com/R887645/SwiftMart-E-Commerce-Analytics-)
+[My LinkedIn Profile](https://www.linkedin.com/in/rofiah-abdul-azeez/)
 
 ## ✅Africa-Fiscal Balance Sustainability Analytics(Power BI)
-**Case Study:** This project leverages the Africa Fiscal Balance & Sustainability Dashboard to analyze the fiscal positions of selected African countries between 2021 and 2025.
+**Case Study:** This project leverages the Africa Fiscal Balance & Sustainability Dashboard to analyze the fiscal positions of selected African countries between **2021 and 2025**.
 
-[View Project](https://github.com/R887645/Africa-Fiscal-Balance-Sustainability-Analytics)
+**[View The Interactive Dashboard](https://github.com/R887645/Africa-Fiscal-Balance-Sustainability-Analytics)**
 
 ## ✅My LinkedIn Analytics (Power BI)
 The main goal of this project is to analyze my LinkedIn account and see how far I have grown between the last 6 months of February-July and this Year (February-July), because I couldn't get the whole of year data
